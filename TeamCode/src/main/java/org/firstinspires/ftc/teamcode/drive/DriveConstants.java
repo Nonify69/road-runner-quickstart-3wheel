@@ -18,6 +18,11 @@ import com.qualcomm.robotcore.hardware.PIDFCoefficients;
 @Config
 public class DriveConstants {
 
+
+
+    public static int propLocation = 1;
+    public static String startPosition = "blueRight";
+
     /*
      * These are motor constants that should be listed online for your motors.
      */
